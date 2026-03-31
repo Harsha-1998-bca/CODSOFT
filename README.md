@@ -22,8 +22,9 @@ HTML5 – For structuring the web pages CSS3 – For styling and layout design
 
 
 
-##Calculator Web Application
-This project is a Calculator Web Application developed using HTML5, CSS3, and JavaScript to perform basic arithmetic operations in a simple and user-friendly interface. The main purpose of this project is to demonstrate frontend development skills by creating an interactive calculator that handles user input dynamically and displays accurate results efficiently.
+## Calculator 
+
+-This project is a Calculator Web Application developed using HTML5, CSS3, and JavaScript to perform basic arithmetic operations in a simple and user-friendly interface. The main purpose of this project is to demonstrate frontend development skills by creating an interactive calculator that handles user input dynamically and displays accurate results efficiently.
  
  --Objective
 1.The objective of this project is to:
