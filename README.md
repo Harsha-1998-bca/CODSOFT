@@ -56,3 +56,12 @@ Evaluates the expression and displays the final result
 7. Responsive Design
 Simple layout that works smoothly on different screen sizes
 
+
+## Landing Page 
+--The Landing Page project is a responsive and visually structured web page developed using HTML and CSS. The purpose of this project is to create an attractive personal introduction webpage that highlights my profile, skills, and career interests in web development.
+--This landing page includes a navigation header section with menu links such as Home, About, Services, Skills, and Contact, allowing users to easily move across different sections of the webpage. It also contains a hero section that introduces me as a final-year undergraduate student with an interest in web development and internship opportunities.
+
+--The About Me section provides additional information about my academic background, technical interests, and career goals. A Download CV button is included to allow recruiters or visitors to access my resume easily. The webpage layout is designed using Flexbox to ensure proper alignment and spacing between elements.
+--The project focuses on building a clean user interface, structured layout, and responsive design, improving both frontend development skills and understanding of webpage structure. This landing page demonstrates my ability to design simple and professional websites using HTML and CSS.
+1.Technologies used in this project include HTML for webpage structure and CSS for styling, layout alignment, colors, and responsiveness.
+--This project helped me strengthen my knowledge of webpage design concepts such as layout creation, navigation structure, image placement, typography styling, and button customization.
